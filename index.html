@@ -22,7 +22,7 @@
             margin-top: 20px;
         }
 
-        input[type="text"], button {
+        input[type="text"], button, input[type="file"] {
             padding: 10px 20px;
             margin: 10px;
             border-radius: 30px;
@@ -90,6 +90,8 @@
         <input type="text" id="buttonName" placeholder="Button Name">
         <input type="text" id="buttonUrl" placeholder="Button URL">
         <button onclick="addButton()">Add Button</button>
+        <button onclick="exportButtons()">Export Buttons</button>
+        <input type="file" id="fileInput" accept=".txt" onchange="importButtons(event)">
     </div>
 
     <input type="text" id="searchInput" placeholder="Search for buttons..." onkeyup="searchButtons()">
@@ -97,9 +99,11 @@
     <div id="buttonContainer"></div>
 
     <script>
-        function addButton() {
-            const buttonName = document.getElementById("buttonName").value;
-            const buttonUrl = document.getElementById("buttonUrl").value;
+        const buttonsData = [];
+
+        function addButton(name = '', url = '') {
+            const buttonName = name || document.getElementById("buttonName").value;
+            const buttonUrl = url || document.getElementById("buttonUrl").value;
 
             if (buttonName && buttonUrl) {
                 const button = document.createElement("button");
@@ -110,9 +114,14 @@
                 };
                 document.getElementById("buttonContainer").appendChild(button);
 
+                // Save button data to array
+                buttonsData.push({ name: buttonName, url: buttonUrl });
+
                 // Clear the input fields
-                document.getElementById("buttonName").value = '';
-                document.getElementById("buttonUrl").value = '';
+                if (!name && !url) {
+                    document.getElementById("buttonName").value = '';
+                    document.getElementById("buttonUrl").value = '';
+                }
             } else {
                 alert("Please enter both a button name and URL.");
             }
@@ -131,7 +140,40 @@
             });
         }
 
-        // Add example button
+        // Export buttons to a text file
+        function exportButtons() {
+            let buttonText = '';
+            buttonsData.forEach(button => {
+                buttonText += `${button.name},${button.url}\n`;
+            });
+
+            const blob = new Blob([buttonText], { type: 'text/plain' });
+            const a = document.createElement('a');
+            a.href = URL.createObjectURL(blob);
+            a.download = 'buttons.txt';
+            a.click();
+        }
+
+        // Import buttons from a text file
+        function importButtons(event) {
+            const file = event.target.files[0];
+            const reader = new FileReader();
+
+            reader.onload = function(e) {
+                const content = e.target.result;
+                const lines = content.split('\n');
+                lines.forEach(line => {
+                    const [name, url] = line.split(',');
+                    if (name && url) {
+                        addButton(name, url);
+                    }
+                });
+            };
+
+            reader.readAsText(file);
+        }
+
+        // Preload example button on load
         window.onload = function() {
             document.getElementById("buttonName").value = "Maths Work";
             document.getElementById("buttonUrl").value = "https://jaylocklol.github.io/itemsinput/html5/paperio/index.html";
