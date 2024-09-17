@@ -52,8 +52,8 @@
         #buttonContainer {
             margin-top: 20px;
             display: flex;
-            flex-wrap: wrap; /* Allows buttons to wrap to the next row */
-            justify-content: center; /* Centers the buttons horizontally */
+            flex-wrap: wrap;
+            justify-content: center;
         }
 
         .dynamic-button {
@@ -82,23 +82,97 @@
         .hidden {
             display: none;
         }
+
+        /* Fullscreen iframe styling */
+        #fullscreenIframeContainer {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background-color: rgba(0, 0, 0, 0.9);
+            display: none; /* Initially hidden */
+            justify-content: center;
+            align-items: center;
+        }
+
+        #fullscreenIframe {
+            width: 100%;
+            height: 100%;
+            border: none;
+        }
+
+        /* Close button styling */
+        #closeButton {
+            position: absolute;
+            top: 20px;
+            right: 20px;
+            font-size: 2em;
+            color: #fff;
+            background: transparent;
+            border: none;
+            cursor: pointer;
+            opacity: 0.3;
+            transition: opacity 0.3s ease;
+        }
+
+        #closeButton:hover {
+            opacity: 1;
+        }
+
+        /* Dropdown toggle button styling */
+        #dropdownToggle {
+            padding: 10px 20px;
+            border-radius: 30px;
+            border: 2px solid #fff;
+            background-color: #000;
+            color: #fff;
+            font-size: 1.2em;
+            cursor: pointer;
+            transition: all 0.3s ease;
+        }
+
+        #dropdownToggle:hover {
+            background-color: #fff;
+            color: #000;
+        }
+
+        /* Dropdown container styling */
+        #dropdownContent {
+            display: none; /* Initially hidden */
+            margin-top: 20px;
+        }
     </style>
 </head>
 <body>
 
     <h1>GeometryAlgebra</h1>
 
-    <div class="container">
+    <!-- Dropdown Toggle Button -->
+    <button id="dropdownToggle" onclick="toggleDropdown()">▼ Show Options</button>
+
+    <!-- Dropdown Content (Initially Hidden) -->
+    <div id="dropdownContent" class="container">
         <input type="text" id="buttonName" placeholder="Button Name">
         <input type="text" id="buttonUrl" placeholder="Button URL">
         <button onclick="addButton()">Add Button</button>
         <button onclick="exportButtons()">Export Buttons</button>
         <input type="file" id="fileInput" accept=".txt" onchange="importButtons(event)">
+        <br>
+        <!-- New buttons for about:blank and Tab Cloak -->
+        <button onclick="makePageAboutBlank()">Embed about:blank</button>
+        <button onclick="tabCloak()">Tab Cloak</button>
     </div>
 
     <input type="text" id="searchInput" placeholder="Search for buttons..." onkeyup="searchButtons()">
 
     <div id="buttonContainer"></div>
+
+    <!-- Fullscreen Iframe Container -->
+    <div id="fullscreenIframeContainer">
+        <button id="closeButton" onclick="closeIframe()">✖</button>
+        <iframe id="fullscreenIframe"></iframe>
+    </div>
 
     <script>
         const buttonsData = [];
@@ -112,7 +186,7 @@
                 button.innerHTML = buttonName;
                 button.classList.add("dynamic-button");
                 button.onclick = function() {
-                    window.open(buttonUrl, "_blank");
+                    openInIframe(buttonUrl);  // Open the URL in the iframe
                 };
                 document.getElementById("buttonContainer").appendChild(button);
 
@@ -175,11 +249,73 @@
             reader.readAsText(file);
         }
 
+        // Open the URL in a fullscreen iframe
+        function openInIframe(url) {
+            const iframeContainer = document.getElementById('fullscreenIframeContainer');
+            const iframe = document.getElementById('fullscreenIframe');
+            iframe.src = url;
+            iframeContainer.style.display = 'flex';
+        }
+
+        // Close the iframe and return to the main page
+        function closeIframe() {
+            const iframeContainer = document.getElementById('fullscreenIframeContainer');
+            iframeContainer.style.display = 'none';
+            document.getElementById('fullscreenIframe').src = ''; // Clear iframe source
+        }
+
+        // Toggle dropdown visibility
+        function toggleDropdown() {
+            const dropdown = document.getElementById("dropdownContent");
+            const toggleButton = document.getElementById("dropdownToggle");
+            
+            if (dropdown.style.display === "none") {
+                dropdown.style.display = "block";
+                toggleButton.innerHTML = "▲ Hide Options";
+            } else {
+                dropdown.style.display = "none";
+                toggleButton.innerHTML = "▼ Show Options";
+            }
+        }
+
+        // Make the current page an about:blank with an embedded iframe
+        function makePageAboutBlank() {
+            let url = prompt("Enter the URL to embed:");
+            if (url) {
+                document.body.innerHTML = '';  // Clear the current page content
+
+                // Create a full-page iframe
+                var iframe = document.createElement('iframe');
+                iframe.style.border = 'none';
+                iframe.style.width = '100vw';
+                iframe.style.height = '100vh';
+                iframe.src = url;
+                
+                document.body.style.margin = '0';
+                document.body.style.height = '100%';
+                document.body.appendChild(iframe);
+            }
+        }
+
+        // Tab Cloak function: Change title and favicon
+        function tabCloak() {
+            document.title = "Office";
+
+            // Change the favicon
+            const link = document.createElement('link');
+            link.rel = 'icon';
+            link.href = 'https://raw.githubusercontent.com/jaylocklol/googologytxt/main/assets/office.png';
+            document.head.appendChild(link);
+        }
+
         // Preload example button on load
         window.onload = function() {
             document.getElementById("buttonName").value = "Maths Work";
             document.getElementById("buttonUrl").value = "https://jaylocklol.github.io/itemsinput/html5/paperio/index.html";
             addButton();
+
+            // Initially hide the dropdown content
+            document.getElementById("dropdownContent").style.display = "none";
         };
     </script>
 
