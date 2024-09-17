@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>GeometryAlgebra</title>
+    <style>
+        body {
+            background-color: #000;
+            color: #fff;
+            font-family: Arial, sans-serif;
+            text-align: center;
+        }
+
+        h1 {
+            margin-top: 50px;
+            font-size: 3em;
+            color: #fff;
+        }
+
+        .container {
+            margin-top: 20px;
+        }
+
+        input[type="text"], button {
+            padding: 10px 20px;
+            margin: 10px;
+            border-radius: 30px;
+            border: 2px solid #fff;
+            background-color: #000;
+            color: #fff;
+            font-size: 1.2em;
+            cursor: pointer;
+            transition: all 0.3s ease;
+        }
+
+        input[type="text"] {
+            width: 300px;
+            outline: none;
+        }
+
+        button {
+            display: inline-block;
+            width: 200px;
+        }
+
+        button:hover {
+            background-color: #fff;
+            color: #000;
+        }
+
+        #buttonContainer {
+            margin-top: 20px;
+        }
+
+        .dynamic-button {
+            display: block;
+            margin: 10px auto;
+            width: 250px;
+            text-align: center;
+            border-radius: 30px;
+            background-color: #000;
+            color: #fff;
+            border: 2px solid #fff;
+            font-size: 1.2em;
+            padding: 10px 0;
+            cursor: pointer;
+            transition: all 0.3s ease;
+        }
+
+        .dynamic-button:hover {
+            background-color: #fff;
+            color: #000;
+        }
+
+        #searchInput {
+            margin-bottom: 20px;
+        }
+
+        .hidden {
+            display: none;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>GeometryAlgebra</h1>
+
+    <div class="container">
+        <input type="text" id="buttonName" placeholder="Button Name">
+        <input type="text" id="buttonUrl" placeholder="Button URL">
+        <button onclick="addButton()">Add Button</button>
+    </div>
+
+    <input type="text" id="searchInput" placeholder="Search for buttons..." onkeyup="searchButtons()">
+
+    <div id="buttonContainer"></div>
+
+    <script>
+        function addButton() {
+            const buttonName = document.getElementById("buttonName").value;
+            const buttonUrl = document.getElementById("buttonUrl").value;
+
+            if (buttonName && buttonUrl) {
+                const button = document.createElement("button");
+                button.innerHTML = buttonName;
+                button.classList.add("dynamic-button");
+                button.onclick = function() {
+                    window.open(buttonUrl, "_blank");
+                };
+                document.getElementById("buttonContainer").appendChild(button);
+
+                // Clear the input fields
+                document.getElementById("buttonName").value = '';
+                document.getElementById("buttonUrl").value = '';
+            } else {
+                alert("Please enter both a button name and URL.");
+            }
+        }
+
+        function searchButtons() {
+            const input = document.getElementById("searchInput").value.toLowerCase();
+            const buttons = document.getElementsByClassName("dynamic-button");
+
+            Array.from(buttons).forEach(button => {
+                if (button.innerHTML.toLowerCase().includes(input)) {
+                    button.classList.remove("hidden");
+                } else {
+                    button.classList.add("hidden");
+                }
+            });
+        }
+
+        // Add example button
+        window.onload = function() {
+            document.getElementById("buttonName").value = "Maths Work";
+            document.getElementById("buttonUrl").value = "https://jaylocklol.github.io/itemsinput/html5/paperio/index.html";
+            addButton();
+        };
+    </script>
+
+</body>
+</html>
