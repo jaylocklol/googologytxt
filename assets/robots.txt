@@ -1,0 +1,266 @@
+Deal or No Deal,https://jaylocklol.github.io/mathalgebra/deal
+Soccer Skills,https://jaylocklol.github.io/mathalgebra/skills
+Slope 3,https://jaylocklol.github.io/mathalgebra/slope3
+Snowball Fighter,https://jaylocklol.github.io/mathalgebra/snow
+Spacebar Clicker,https://jaylocklol.github.io/mathalgebra/space
+π Client,https://jaylocklol.github.io/mathalgebra/pi
+Precision Client,https://jaylocklol.github.io/mathalgebra/pre
+Shadow Client,https://jaylocklol.github.io/mathalgebra/shadow
+Windows XP,https://jaylocklol.github.io/mathalgebra/xp
+Dragon Client,https://jaylocklol.github.io/mathalgebra/drag
+Ayuncraft 1.5.2,https://jaylocklol.github.io/mathalgebra/ayun
+Minecraft Infdev,https://jaylocklol.github.io/mathalgebra/inf
+Minesweeper,https://jaylocklol.github.io/mathalgebra/minesweeper
+POOM,https://jaylocklol.github.io/mathalgebra/poom
+Solitaire,https://jaylocklol.github.io/mathalgebra/solitaire
+Spank the Monkey,https://jaylocklol.github.io/mathalgebra/spankthemonkey
+CMM Client,https://jaylocklol.github.io/mathalgebra/cmm-client
+Pool,https://jaylocklol.github.io/mathalgebra/pool
+Yohoho.io,https://jaylocklol.github.io/mathalgebra/yohoho
+Tube Jumpers,https://jaylocklol.github.io/mathalgebra/tube-jumpers
+Hill Climb Racing 2,https://jaylocklol.github.io/mathalgebra/hillclimbracing2
+DOOM,https://jaylocklol.github.io/mathalgebra/doom
+Awesome Tanks,https://jaylocklol.github.io/mathalgebra/awesometanks
+Bubble Shooter,https://jaylocklol.github.io/mathalgebra/bubbleshooter
+Pong,https://jaylocklol.github.io/mathalgebra/pong
+Flappy Plane,https://jaylocklol.github.io/mathalgebra/flappyplane
+A Dance of Fire & Ice,https://jaylocklol.github.io/mathalgebra/adofai
+Resent Client,https://jaylocklol.github.io/mathalgebra/online-mc
+Eaglercraft 1.5.2,https://jaylocklol.github.io/mathalgebra/offline-mc
+Friday Night Funkin,https://jaylocklol.github.io/mathalgebra/fridaynightfunkin
+Worlds Hardest Game,https://jaylocklol.github.io/mathalgebra/worldshardestgame
+GBA Emulator,https://jaylocklol.github.io/mathalgebra/gba
+Celeste,https://jaylocklol.github.io/mathalgebra/celeste
+Mario,https://jaylocklol.github.io/mathalgebra/mario
+60s Burger Run,https://jaylocklol.github.io/mathalgebra/60sburgerrun
+Cluster Rush,https://jaylocklol.github.io/mathalgebra/cluster-rush
+Vex 3,https://jaylocklol.github.io/mathalgebra/vex3
+Adventure Capitalist,https://jaylocklol.github.io/mathalgebra/adventure-capitalist
+Bloons Tower Defense 3,https://jaylocklol.github.io/mathalgebra/btd3
+Avalanche,https://jaylocklol.github.io/mathalgebra/avalanche
+Slope,https://jaylocklol.github.io/mathalgebra/slope
+Cell Machine,https://jaylocklol.github.io/mathalgebra/cell-machine
+Run 2,https://jaylocklol.github.io/mathalgebra/run2
+Vex 5,https://jaylocklol.github.io/mathalgebra/vex5
+Vex 4,https://jaylocklol.github.io/mathalgebra/vex4
+Vex 2,https://jaylocklol.github.io/mathalgebra/vex2
+Crossy Road,https://jaylocklol.github.io/mathalgebra/crossyroad
+Wall Smash,https://jaylocklol.github.io/mathalgebra/wallsmash
+Death Run 3D,https://jaylocklol.github.io/mathalgebra/death-run-3d
+Gun Mayhem 2,https://jaylocklol.github.io/mathalgebra/gunmayhem2
+CircloO,https://jaylocklol.github.io/mathalgebra/circloo
+Vex,https://jaylocklol.github.io/mathalgebra/vex
+Stack,https://jaylocklol.github.io/mathalgebra/stack
+xx142-b2.exe,https://jaylocklol.github.io/mathalgebra/xx142-b2.exe
+paper.io,https://jaylocklol.github.io/mathalgebra/paperio
+Chibi Knight,https://jaylocklol.github.io/mathalgebra/chibiknight
+1v1.lol,https://jaylocklol.github.io/mathalgebra/1v1lol
+Dino,https://jaylocklol.github.io/mathalgebra/dino
+Turbowarp,https://jaylocklol.github.io/mathalgebra/turbowarp
+Tetris,https://jaylocklol.github.io/mathalgebra/tetris
+Geometry Dash,https://jaylocklol.github.io/mathalgebra/geometrydash
+Sand Game,https://jaylocklol.github.io/mathalgebra/sand
+Dante,https://jaylocklol.github.io/mathalgebra/dante
+Wordle,https://jaylocklol.github.io/mathalgebra/wordle
+Offline Paradise,https://jaylocklol.github.io/mathalgebra/offlineparadise
+2048,https://jaylocklol.github.io/mathalgebra/2048
+Doodle Jump,https://jaylocklol.github.io/mathalgebra/doodlejump
+Weave Silk,https://jaylocklol.github.io/mathalgebra/weavesilk
+Super Meat Boy,https://jaylocklol.github.io/mathalgebra/supermeatboy
+Vex 6,https://jaylocklol.github.io/mathalgebra/vex6
+WebGL Fluid Sim,https://jaylocklol.github.io/mathalgebra/fluidsim
+Basketball Stars,https://jaylocklol.github.io/mathalgebra/basketball-stars
+osu!,https://jaylocklol.github.io/mathalgebra/osu
+Cookie Clicker,https://jaylocklol.github.io/mathalgebra/cookieclicker
+Superhot,https://jaylocklol.github.io/mathalgebra/superhot
+Super Mario 64,https://jaylocklol.github.io/mathalgebra/supermario64
+Gun Mayhem Redux,https://jaylocklol.github.io/mathalgebra/gunmayhemredux
+I Wanna Be Thy Copy,https://jaylocklol.github.io/mathalgebra/iwbtc
+HexGL,https://jaylocklol.github.io/mathalgebra/hexgl
+Champion Island,https://jaylocklol.github.io/mathalgebra/championisland
+Learn to Fly,https://jaylocklol.github.io/mathalgebra/learntofly
+Wordle Bot,https://jaylocklol.github.io/mathalgebra/wordlebot
+Cut The Rope,https://jaylocklol.github.io/mathalgebra/cuttherope
+Chess,https://jaylocklol.github.io/mathalgebra/chess
+Flappy Bird,https://jaylocklol.github.io/mathalgebra/flappybird
+Lows Adventures 2,https://jaylocklol.github.io/mathalgebra/lowsadventures2
+Drift Boss,https://jaylocklol.github.io/mathalgebra/drift-boss
+Fireboy & Watergirl 1,https://jaylocklol.github.io/mathalgebra/fireboywatergirl
+Gun Mayhem,https://jaylocklol.github.io/mathalgebra/gunmayhem
+Duck Life 4,https://jaylocklol.github.io/mathalgebra/ducklife4
+Achievement Unlocked,https://jaylocklol.github.io/mathalgebra/achieveunlocked
+Achievement Unlocked 2,https://jaylocklol.github.io/mathalgebra/achieveunlocked2
+This Is The Only Level,https://jaylocklol.github.io/mathalgebra/thisistheonlylevel
+This Is The Only Level 2,https://jaylocklol.github.io/mathalgebra/thisistheonlylevel2
+Bitlife,https://jaylocklol.github.io/mathalgebra/bitlife
+Duck Life 1,https://jaylocklol.github.io/mathalgebra/ducklife1
+Duck Life 2,https://jaylocklol.github.io/mathalgebra/ducklife2
+Duck Life 3,https://jaylocklol.github.io/mathalgebra/ducklife3
+ovo,https://jaylocklol.github.io/mathalgebra/ovo
+There Is No Game,https://jaylocklol.github.io/mathalgebra/thereisnogame
+Universal Paperclips,https://jaylocklol.github.io/mathalgebra/universal-paperclips
+Windows 11,https://jaylocklol.github.io/mathalgebra/win11
+Learn to Fly 2,https://jaylocklol.github.io/mathalgebra/learntofly2
+Worlds Hardest Game 2,https://jaylocklol.github.io/mathalgebra/worldhardestgame2
+Vex 7,https://jaylocklol.github.io/mathalgebra/vex7
+Slope Ball,https://jaylocklol.github.io/mathalgebra/slope-ball
+Slope 2,https://jaylocklol.github.io/mathalgebra/slope2
+Learn to Fly Idle,https://jaylocklol.github.io/mathalgebra/learntoflyidle
+Red Ball 4,https://jaylocklol.github.io/mathalgebra/redball4
+Red Ball 4 Vol 3,https://jaylocklol.github.io/mathalgebra/redball4vol3
+Red Ball 4 Vol 2,https://jaylocklol.github.io/mathalgebra/redball4vol2
+Red Ball 3,https://jaylocklol.github.io/mathalgebra/redball3
+Snake,https://jaylocklol.github.io/mathalgebra/snake
+Pacman,https://jaylocklol.github.io/mathalgebra/pacman
+Color Switch,https://jaylocklol.github.io/mathalgebra/colorswitch
+Halloween 2016,https://jaylocklol.github.io/mathalgebra/halloween2016
+Game Maker Doodle,https://jaylocklol.github.io/mathalgebra/gamemaker
+The Impossible Game,https://jaylocklol.github.io/mathalgebra/theimpossiblegame
+Papas Freezeria,https://jaylocklol.github.io/mathalgebra/papasfreezeria
+Papas Pizzeria,https://jaylocklol.github.io/mathalgebra/papaspizzeria
+Idle Breakout,https://jaylocklol.github.io/mathalgebra/idlebreakout
+Stickman Hook,https://jaylocklol.github.io/mathalgebra/stickman-hook
+Drift Hunters,https://jaylocklol.github.io/mathalgebra/drifthunters
+Rocket League,https://jaylocklol.github.io/mathalgebra/rocketleague
+Little Alchemy,https://jaylocklol.github.io/mathalgebra/littlealchemy
+Retro Bowl,https://jaylocklol.github.io/mathalgebra/retrobowl
+Tunnel Rush,https://jaylocklol.github.io/mathalgebra/tunnelrush
+Moto X3M,https://jaylocklol.github.io/mathalgebra/motox3m
+Moto X3M Winter,https://jaylocklol.github.io/mathalgebra/motox3m-winter
+Moto X3M Pool Party,https://jaylocklol.github.io/mathalgebra/motox3m-pool
+Five Nights at Freddy's,https://jaylocklol.github.io/mathalgebra/fnaf
+Burrito Bison,https://jaylocklol.github.io/mathalgebra/burritobison
+Cut The Rope Holday,https://jaylocklol.github.io/mathalgebra/cuttherope-holiday
+Helix Jump,https://jaylocklol.github.io/mathalgebra/helixjump
+Clicker Heroes,https://jaylocklol.github.io/mathalgebra/clickerheroes
+Jetpack Joyride,https://jaylocklol.github.io/mathalgebra/jetpackjoyride
+Fruit Ninja,https://jaylocklol.github.io/mathalgebra/fruitninja
+Tron,https://jaylocklol.github.io/mathalgebra/tron
+Thirty Dollar Website,https://jaylocklol.github.io/mathalgebra/thirtydollarwebsite
+n-gon,https://jaylocklol.github.io/mathalgebra/ngon
+Subway Surfers,https://jaylocklol.github.io/mathalgebra/subway-surfers-ny
+Madalin Cars,https://jaylocklol.github.io/mathalgebra/madalincars
+Run 3,https://jaylocklol.github.io/mathalgebra/run3
+Dragon Ball Devolution,https://jaylocklol.github.io/mathalgebra/dragonballdevolution
+Run,https://jaylocklol.github.io/mathalgebra/run
+Super Smash Flash,https://jaylocklol.github.io/mathalgebra/supersmashflash
+Stickman Climb,https://jaylocklol.github.io/mathalgebra/stickmanclimb
+Getaway Shooter,https://jaylocklol.github.io/mathalgebra/getawayshooter
+Riddle School,https://jaylocklol.github.io/mathalgebra/riddleschool
+Riddle School 2,https://jaylocklol.github.io/mathalgebra/riddleschool2
+Riddle School 3,https://jaylocklol.github.io/mathalgebra/riddleschool3
+Riddle School 4,https://jaylocklol.github.io/mathalgebra/riddleschool4
+Riddle School 5,https://jaylocklol.github.io/mathalgebra/riddleschool5
+Riddle Transfer,https://jaylocklol.github.io/mathalgebra/riddleschooltransfer
+Riddle Transfer 2,https://jaylocklol.github.io/mathalgebra/riddleschooltransfer2
+Zombocalypse,https://jaylocklol.github.io/mathalgebra/zombocalypse
+Papas Burgeria,https://jaylocklol.github.io/mathalgebra/papasburgeria
+Duck Life 5,https://jaylocklol.github.io/mathalgebra/ducklife5
+Duck Life 6,https://jaylocklol.github.io/mathalgebra/ducklife6
+webretro,https://jaylocklol.github.io/mathalgebra/webretro
+osu!mania,https://jaylocklol.github.io/mathalgebra/osumania
+Five Nights at Freddy's 2,https://jaylocklol.github.io/mathalgebra/fnaf2
+Five Nights at Freddy's 3,https://jaylocklol.github.io/mathalgebra/fnaf3
+Five Nights at Freddy's 4,https://jaylocklol.github.io/mathalgebra/fnaf4
+Temple Run 2,https://jaylocklol.github.io/mathalgebra/templerun2
+Happy Wheels,https://jaylocklol.github.io/mathalgebra/happywheels
+Fireboy & Watergirl 2,https://jaylocklol.github.io/mathalgebra/fireboywatergirl2
+Fireboy & Watergirl 3,https://jaylocklol.github.io/mathalgebra/fireboywatergirl3
+Fireboy & Watergirl 4,https://jaylocklol.github.io/mathalgebra/fireboywatergirl4
+Rise Higher,https://jaylocklol.github.io/mathalgebra/risehigher
+Hextris,https://jaylocklol.github.io/mathalgebra/hextris
+Sprinter,https://jaylocklol.github.io/mathalgebra/sprinter
+Amazing Rope Police,https://jaylocklol.github.io/mathalgebra/amazing-rope-police
+Ruffle,https://jaylocklol.github.io/mathalgebra/ruffle
+emulatorJS,https://jaylocklol.github.io/mathalgebra/emulatorjs
+Geometry Rash,https://jaylocklol.github.io/mathalgebra/geometryrash
+Bloons Tower Defense,https://jaylocklol.github.io/mathalgebra/btd
+Bloons Tower Defense 2,https://jaylocklol.github.io/mathalgebra/btd2
+Bloons Tower Defense 4,https://jaylocklol.github.io/mathalgebra/btd4
+Bloons Tower Defense 6,https://jaylocklol.github.io/mathalgebra/btd6
+Bloons Tower Defense 5,https://jaylocklol.github.io/mathalgebra/btd5
+Last Horizon,https://jaylocklol.github.io/mathalgebra/lasthorizon
+1 on 1 Soccer,https://jaylocklol.github.io/mathalgebra/1on1soccer
+Among Us,https://jaylocklol.github.io/mathalgebra/amongus
+Bad Piggies,https://jaylocklol.github.io/mathalgebra/badpiggies
+Sandtrix,https://jaylocklol.github.io/mathalgebra/sandtrix
+Blood Tournament,https://jaylocklol.github.io/mathalgebra/bloodtournament
+Gold Digger FRVR,https://jaylocklol.github.io/mathalgebra/golddiggerfrvr
+Retro Bowl College,https://jaylocklol.github.io/mathalgebra/retrobowlcollege
+We Become What We Behold,https://jaylocklol.github.io/mathalgebra/wbwwb
+Nut Simulator,https://jaylocklol.github.io/mathalgebra/nutsim
+Pokemon,https://jaylocklol.github.io/mathalgebra/pokemon
+Super Smash Bros,https://jaylocklol.github.io/mathalgebra/supersmashbros
+Skibidi 1 v 100,https://jaylocklol.github.io/mathalgebra/skibiditoilet
+Drive Mad,https://jaylocklol.github.io/mathalgebra/drivemad
+Rooftop Snipers,https://jaylocklol.github.io/mathalgebra/rooftopsnipers
+Funny Shooter,https://jaylocklol.github.io/mathalgebra/funnyshooter
+Monkey Mart,https://jaylocklol.github.io/mathalgebra/monkeymart
+Factory Balls,https://jaylocklol.github.io/mathalgebra/factoryballs
+Factory Balls Forever,https://jaylocklol.github.io/mathalgebra/factoryballsforever
+Funny Shooter 2,https://jaylocklol.github.io/mathalgebra/funnyshooter2
+Bad Time Simulator,https://jaylocklol.github.io/mathalgebra/badtimesimulator
+Commodore 64 Clicker,https://jaylocklol.github.io/mathalgebra/commodoreclicker
+Stickman Boost,https://jaylocklol.github.io/mathalgebra/stickmanboost
+Stickman Golf,https://jaylocklol.github.io/mathalgebra/stickmangolf
+Basket Bros,https://jaylocklol.github.io/mathalgebra/basketbros
+justfall.lol,https://jaylocklol.github.io/mathalgebra/justfalllol
+Doge Miner,https://jaylocklol.github.io/mathalgebra/dogeminer
+Soccer Random,https://jaylocklol.github.io/mathalgebra/soccerrandom
+Basket Random,https://jaylocklol.github.io/mathalgebra/basketrandom
+Boxing Random,https://jaylocklol.github.io/mathalgebra/boxingrandom
+Funny Mad Racing,https://jaylocklol.github.io/mathalgebra/funnymadracing
+hole.io,https://jaylocklol.github.io/mathalgebra/holeio
+Time Shooter,https://jaylocklol.github.io/mathalgebra/timeshooter1
+Time Shooter 2,https://jaylocklol.github.io/mathalgebra/timeshooter2
+Time Shooter 3,https://jaylocklol.github.io/mathalgebra/timeshooter3
+Townscaper,https://jaylocklol.github.io/mathalgebra/townscaper
+Bad Ice Cream,https://jaylocklol.github.io/mathalgebra/badicecream
+Bad Ice Cream 2,https://jaylocklol.github.io/mathalgebra/badicecream2
+Bad Ice Cream 3,https://jaylocklol.github.io/mathalgebra/badicecream3
+Bob the Robber 2,https://jaylocklol.github.io/mathalgebra/bobtherobber2
+Boxing Physics 2,https://jaylocklol.github.io/mathalgebra/boxingphysics2
+Burger and Frights,https://jaylocklol.github.io/mathalgebra/burgerandfrights
+Flippy Fish,https://jaylocklol.github.io/mathalgebra/flippyfish
+Knife Hit,https://jaylocklol.github.io/mathalgebra/knifehit
+Lazy Jump 3D,https://jaylocklol.github.io/mathalgebra/lazyjump3d
+Moto X3M Spooky,https://jaylocklol.github.io/mathalgebra/motox3m-spooky
+Rooftop Snipers 2,https://jaylocklol.github.io/mathalgebra/rooftopsnipers2
+Skibidi Toilet Attack,https://jaylocklol.github.io/mathalgebra/skibiditoiletattack
+Tiny Fishing,https://jaylocklol.github.io/mathalgebra/tinyfishing
+TU-95,https://jaylocklol.github.io/mathalgebra/tu95
+TU-46,https://jaylocklol.github.io/mathalgebra/tu46
+Russian Car Driver,https://jaylocklol.github.io/mathalgebra/russiancardriver
+Legend of Zelda - Ocarina of Time,https://jaylocklol.github.io/mathalgebra/ocarinaoftime
+Metroid: Zero Mission,https://jaylocklol.github.io/mathalgebra/metroidzeromission
+Guilty Gear,https://jaylocklol.github.io/mathalgebra/guiltygear
+A Dark Room,https://jaylocklol.github.io/mathalgebra/adarkroom
+Fancy Pants Adventures,https://jaylocklol.github.io/mathalgebra/fancypantsadventures
+Fancy Pants Adventures 2,https://jaylocklol.github.io/mathalgebra/fancypantsadventures2
+Line Rider,https://jaylocklol.github.io/mathalgebra/linerider
+Funny Ball Game,https://jaylocklol.github.io/mathalgebra/funnyballgame
+Henry Stickmin - Stealing the Diamond,https://jaylocklol.github.io/mathalgebra/stealingthediamond
+Henry Stickmin - Breaking the Bank,https://jaylocklol.github.io/mathalgebra/breakingthebank
+Henry Stickmin - Escaping the Prison,https://jaylocklol.github.io/mathalgebra/escapingtheprison
+Henry Stickmin - Fleeing the Complex,https://jaylocklol.github.io/mathalgebra/fleeingthecomplex
+Henry Stickmin - Infiltrating the Airship,https://jaylocklol.github.io/mathalgebra/infiltratingtheairship
+Pandemic,https://jaylocklol.github.io/mathalgebra/pandemic
+Pandemic 2,https://jaylocklol.github.io/mathalgebra/pandemic2
+Age of War,https://jaylocklol.github.io/mathalgebra/ageofwar
+Soundboard,https://jaylocklol.github.io/mathalgebra/soundboard
+The Impossible Quiz,https://jaylocklol.github.io/mathalgebra/theimpossiblequiz
+2D Rocket League,https://jaylocklol.github.io/mathalgebra/2drocketleague
+Pizza Tower,https://jaylocklol.github.io/mathalgebra/pizzatower
+Monster Tracks,https://jaylocklol.github.io/mathalgebra/monstertracks
+Totally Accurate Battle Simulator,https://jaylocklol.github.io/mathalgebra/tabs
+CSGO Case Clicker,https://jaylocklol.github.io/mathalgebra/csgoclicker
+The Final Earth 2,https://jaylocklol.github.io/mathalgebra/thefinalearth2
+Baldi's Basics,https://jaylocklol.github.io/mathalgebra/baldis-basics
+Cubefield,https://jaylocklol.github.io/mathalgebra/cubefield
+Minecraft Classic,https://jaylocklol.github.io/mathalgebra/mcclassic
+Bit Planes,https://jaylocklol.github.io/mathalgebra/bit-planes
+Snow Rider 3D,https://jaylocklol.github.io/mathalgebra/snowrider3d
+Dadish,https://jaylocklol.github.io/mathalgebra/dadish
+Dadish 2,https://jaylocklol.github.io/mathalgebra/dadish2
+Dadish 3,https://jaylocklol.github.io/mathalgebra/dadish3
+Watermelon Game,https://jaylocklol.github.io/mathalgebra/watermelongame
